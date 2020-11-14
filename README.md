@@ -8,6 +8,7 @@ After that I started trail running an mtb, as I was living in my local town back
 In the last period, you can clearly see how starting a job reduced highly my level of activity, followed by 2 months of lockdown in Spain when it was not allowed to do sport outdoors
 
 ![alt text](https://github.com/carcligu/EDA_Strava/blob/main/Figures/activities_over_time_by_activity.png =150x)
+<img src="https://github.com/carcligu/EDA_Strava/blob/main/Figures/activities_over_time_by_activity.png" width="48">
 
 # Data Source
 For pulling data with the STRAVA API I used this post as a baseline: https://medium.com/swlh/using-python-to-connect-to-stravas-api-and-analyse-your-activities-dummies-guide-5f49727aac86 .However, I did some modifications on how to convert the data into a df. 
